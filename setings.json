@@ -1,9 +1,10 @@
 //Visual code configuration setings
-// Extensions: Bash Ide, Django, indenticator, Material Icon Theme, One Dark, One Dark Pro, Nord, Palenight Theme, Powershell, Python, Python iden, vscode icons, Subtle Match Brackets
+// Extensions: Bash Ide, Django, indenticator, Material Icon Theme, One Dark, One Dark Pro, Nord, Palenight Theme, Powershell, Python, Python iden, vscode icons, Subtle Match Brackets, Better Comments, Git Lens, Git Extension Pack, version Lens, open in browser,
+// Extensions opcionals: Activitus Bar, Prettier, Rest Client, mysql (Weijan Chen), Error Lens
 
 {
     "window.zoomLevel": 0,
-    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",  // Git Bash o Tilix, WSL o Console (Depenend SO)
     "workbench.sideBar.location": "right",
     "workbench.colorTheme": "One Dark Pro Mix",
     "workbench.iconTheme": "material-icon-theme",
